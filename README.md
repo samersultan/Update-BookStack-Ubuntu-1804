@@ -1,6 +1,6 @@
-# Update BookStack on Ubuntu 18.04
+# Update BookStack for Ubuntu 18.04
 
-Instruction to update BookStack on Ubuntu 18.04
+Instruction to update BookStack for Ubuntu 18.04
 
 
 
