@@ -1,7 +1,12 @@
 # Update BookStack for Ubuntu 18.04
 
-Instruction to update BookStack for Ubuntu 18.04
+Instruction to update BookStack for Ubuntu Server 18.04
 
+Bookstack: https://www.bookstackapp.com/
+
+Ubuntu Server https://www.ubuntu.com/download/server
+
+----
 
 
 
