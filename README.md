@@ -1,6 +1,6 @@
 # Update BookStack for Ubuntu Server
 
-Instruction to update BookStack for Ubuntu Server 18.04
+Instruction how to update BookStack on Ubuntu Server. This was written with Ubuntu Server version 18.04 but should work the same on newer versions. 
 
 Bookstack: https://www.bookstackapp.com/
 
