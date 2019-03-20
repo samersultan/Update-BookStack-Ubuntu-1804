@@ -28,7 +28,7 @@ Ubuntu Server https://www.ubuntu.com/download/server
 
 
 
-<img src="https://i.imgur.com/nAd5z1w.png">
+<img src="https://i.imgur.com/OkrHZ0L.png">
 
 
 ----
