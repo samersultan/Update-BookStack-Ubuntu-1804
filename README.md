@@ -1,4 +1,4 @@
-# Update BookStack for Ubuntu 18.04
+# Update BookStack for Ubuntu Server
 
 Instruction to update BookStack for Ubuntu Server 18.04
 
