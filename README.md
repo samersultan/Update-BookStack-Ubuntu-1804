@@ -27,6 +27,10 @@ Ubuntu Server https://www.ubuntu.com/download/server
 `sudo php artisan view:clear`
 
 
+
+<img src="https://i.imgur.com/nAd5z1w.png">
+
+
 ----
 
 
